@@ -20,9 +20,9 @@ function iLoveTheBeatles (num) {
 let array =[]
 function increment() {
   num++
+  return array
 }
 do {
   array.push ("I love the Beatles!")
 } while (num < 15)
-return array
 }
