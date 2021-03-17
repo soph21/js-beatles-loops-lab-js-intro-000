@@ -25,5 +25,4 @@ function increment() {
 do {
   array.push ("I love the Beatles!")
 } while (num < 15)
-return array
 }
