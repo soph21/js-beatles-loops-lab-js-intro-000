@@ -27,4 +27,5 @@ do {
   increment()
   console.log(num)
 } while (num < 15)
+return array
 }
