@@ -19,7 +19,7 @@ return array
 function iLoveTheBeatles (num) {
 let array =[], n = 0
 function increment() {
-  n++
+  num++
 }
 do {
   array.push ("I love the Beatles!")
