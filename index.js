@@ -17,7 +17,7 @@ return array
 }
 
 function iLoveTheBeatles (num) {
-let array =[], n = 0
+let array =[], num = 0
 function increment() {
   num++
 }
